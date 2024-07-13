@@ -1,0 +1,87 @@
+<openpnp-board version="1.1" name="thermistor-ring.board.xml">
+   <dimensions units="Millimeters" x="0.0" y="0.0" z="0.0" rotation="0.0"/>
+   <placements>
+      <placement version="1.4" side="Top" id="C1" part-id="C_0805_2012Metric-0.1uF" type="Placement" enabled="true">
+         <location units="Millimeters" x="82.0186" y="-74.2247" z="0.0" rotation="120.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C2" part-id="C_0805_2012Metric-0.1uF" type="Placement" enabled="false">
+         <location units="Millimeters" x="56.7259" y="-51.1541" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C3" part-id="C_0805_2012Metric-0.1uF" type="Placement" enabled="false">
+         <location units="Millimeters" x="65.7092" y="-36.219" z="0.0" rotation="-150.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C4" part-id="C_0805_2012Metric-0.1uF" type="Placement" enabled="false">
+         <location units="Millimeters" x="89.5535" y="-41.7197" z="0.0" rotation="-125.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C5" part-id="C_0603_1608Metric-0.1uF" type="Placement" enabled="false">
+         <location units="Millimeters" x="62.7931" y="-69.9813" z="0.0" rotation="55.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C6" part-id="C_0603_1608Metric-0.1uF" type="Placement" enabled="false">
+         <location units="Millimeters" x="94.9794" y="-59.7339" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C7" part-id="C_0603_1608Metric-1.0uF" type="Placement" enabled="false">
+         <location units="Millimeters" x="60.8095" y="-41.3952" z="0.0" rotation="145.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C8" part-id="C_0603_1608Metric-1.0uF" type="Placement" enabled="false">
+         <location units="Millimeters" x="57.059" y="-46.1507" z="0.0" rotation="145.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="FD1" part-id="Fiducial_1.5mm_Mask3mm-Fiducial_1.5mm_Mask3mm" type="Fiducial" enabled="true">
+         <location units="Millimeters" x="91.8273" y="-45.87" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="FD2" part-id="Fiducial_1.5mm_Mask3mm-Fiducial_1.5mm_Mask3mm" type="Fiducial" enabled="true">
+         <location units="Millimeters" x="77.6073" y="-75.23" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="FD3" part-id="Fiducial_1.5mm_Mask3mm-Fiducial_1.5mm_Mask3mm" type="Fiducial" enabled="true">
+         <location units="Millimeters" x="57.1873" y="-61.46" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R2" part-id="R_0805_2012Metric-4.7k" type="Placement" enabled="false">
+         <location units="Millimeters" x="83.5262" y="-34.7356" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R3" part-id="R_0805_2012Metric-4.7k" type="Placement" enabled="false">
+         <location units="Millimeters" x="61.9175" y="-38.2101" z="0.0" rotation="-55.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U1" part-id="DBV0005A-IPC_A-TPS7A2018PDBVR" type="Placement" enabled="false">
+         <location units="Millimeters" x="58.1588" y="-43.4028" z="0.0" rotation="-125.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U2" part-id="DFN8_2x3MC_MCH-MCP9808T-E/MC" type="Placement" enabled="false">
+         <location units="Millimeters" x="66.159" y="-38.9126" z="0.0" rotation="30.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U3" part-id="DFN8_2x3MC_MCH-MCP9808T-E/MC" type="Placement" enabled="false">
+         <location units="Millimeters" x="56.6186" y="-55.4752" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U4" part-id="DFN8_2x3MC_MCH-MCP9808T-E/MC" type="Placement" enabled="false">
+         <location units="Millimeters" x="85.3968" y="-71.9732" z="0.0" rotation="-145.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U5" part-id="DFN8_2x3MC_MCH-MCP9808T-E/MC" type="Placement" enabled="false">
+         <location units="Millimeters" x="94.8456" y="-55.522" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U6" part-id="DFN8_2x3MC_MCH-MCP9808T-E/MC" type="Placement" enabled="false">
+         <location units="Millimeters" x="66.2198" y="-71.9344" z="0.0" rotation="145.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U7" part-id="DFN8_2x3MC_MCH-MCP9808T-E/MC" type="Placement" enabled="false">
+         <location units="Millimeters" x="85.2444" y="-39.0093" z="0.0" rotation="-35.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+   </placements>
+   <fiducials/>
+   <solder-paste-pads/>
+</openpnp-board>

@@ -1,0 +1,26 @@
+### Footprint positions - created on Mon 15 Apr 2024 04:35:06 PM PDT ###
+### Printed by KiCad version 7.0.10
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                     Package                      PosX       PosY       Rot  Side
+C1        0.1uF                   C_0805_2012Metric         24.8313   -12.7647  120.0000  top
+C2        0.1uF                   C_0805_2012Metric         -0.4614    10.3059    0.0000  top
+C3        0.1uF                   C_0805_2012Metric          8.5219    25.2410  -150.0000  top
+C4        0.1uF                   C_0805_2012Metric         32.3662    19.7403  -125.0000  top
+C5        0.1uF                   C_0603_1608Metric          5.6058    -8.5213   55.0000  top
+C6        0.1uF                   C_0603_1608Metric         37.7921     1.7261  180.0000  top
+C7        1.0uF                   C_0603_1608Metric          3.6222    20.0648  145.0000  top
+C8        1.0uF                   C_0603_1608Metric         -0.1283    15.3093  145.0000  top
+FD1       Fiducial_1.5mm_Mask3mm  Fiducial_1.5mm_Mask3mm    34.6400    15.5900    0.0000  top
+FD2       Fiducial_1.5mm_Mask3mm  Fiducial_1.5mm_Mask3mm    20.4200   -13.7700    0.0000  top
+FD3       Fiducial_1.5mm_Mask3mm  Fiducial_1.5mm_Mask3mm     0.0000     0.0000    0.0000  top
+R2        4.7k                    R_0805_2012Metric         26.3389    26.7244  -90.0000  top
+R3        4.7k                    R_0805_2012Metric          4.7302    23.2498  -55.0000  top
+U1        TPS7A2018PDBVR          DBV0005A-IPC_A             0.9715    18.0572  -125.0000  top
+U2        MCP9808T-E/MC           DFN8_2x3MC_MCH             8.9717    22.5474   30.0000  top
+U3        MCP9808T-E/MC           DFN8_2x3MC_MCH            -0.5687     5.9848   90.0000  top
+U4        MCP9808T-E/MC           DFN8_2x3MC_MCH            28.2095   -10.5132  -145.0000  top
+U5        MCP9808T-E/MC           DFN8_2x3MC_MCH            37.6583     5.9380  -90.0000  top
+U6        MCP9808T-E/MC           DFN8_2x3MC_MCH             9.0325   -10.4744  145.0000  top
+U7        MCP9808T-E/MC           DFN8_2x3MC_MCH            28.0571    22.4507  -35.0000  top
+## End
